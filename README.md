@@ -1,7 +1,7 @@
    ###   Olá! Me chamo Lucas Destro
    ##
 
-- 🌱 Atualmente estudo para me tornar um dev front-end.
+- 🌱 Atualmente estudo para me tornar um dev fullstack.
 - 😄 Pronouns: ele/dele
 ##
 <div>
